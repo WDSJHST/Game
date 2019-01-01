@@ -1,4 +1,4 @@
-version:1343
+﻿version:1343
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.15
@@ -18,7 +18,7 @@ renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
-lang:zh_cn
+lang:zh_CN
 chatVisibility:0
 chatColors:true
 chatLinks:true
