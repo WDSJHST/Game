@@ -1,274 +1,339 @@
-[16:39:41] [main/INFO] [com.netease.mc.mod.network.common.Common]: {"uid":[166267542,0],"gameid":[1,0],"launcherport":[10721,0],"countDownTime":[0,0],"filterkey":["ihsfdryqrgnjuxufuqbiqrpwrdsuhifd","0"],"filterpath":["C:\\Users\\PC\\AppData\\Local\\Netease\\MCLauncher\\config\\fltmp","0"],"blockGainFactor":[1,0],"expGainFactor":[1,0],"msg":["","0"]}
-[16:39:41] [pool-1-thread-1/INFO] [com.netease.mc.mod.network.common.Common]: My socket: 127.0.0.1:10721
-[16:39:41] [pool-1-thread-1/INFO] [com.netease.mc.mod.network.common.Common]: C:\MCLDownload\Game\.minecraft\versions\1.12.2\natives\runtime
-[16:39:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[16:39:41] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[16:39:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[16:39:41] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2705 for Minecraft 1.12.2 loading
-[16:39:41] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_60, running on Windows 10:amd64:10.0, installed at C:\MCLDownload\ext\jre-v64-170307\jre8
-[16:39:41] [main/INFO] [FML]: Searching C:\MCLDownload\Game\.minecraft\.\mods for mods
-[16:39:41] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in 4618158911831432412@3@15.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:39:43] [pool-1-thread-1/INFO] [com.netease.mc.mod.network.common.Library]: 0
-[16:39:43] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[16:39:43] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: Sender ... start --- Sender
-[16:39:43] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: Receiver ... start --- Receiver
-[16:39:43] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in 4620273834266845199@3@0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:39:43] [main/WARN] [FML]: The coremod com.netease.mc.core.NeteaseCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[16:39:43] [main/WARN] [FML]: The coremod NeteaseCore (com.netease.mc.core.NeteaseCore) is not signed!
-[16:39:43] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in 4621632218832071536@3@0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:39:43] [main/WARN] [FML]: The coremod com.netease.mc.core.base.BaseModNeteaseCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[16:39:43] [main/WARN] [FML]: The coremod BaseModNeteaseCore (com.netease.mc.core.base.BaseModNeteaseCore) is not signed!
-[16:39:43] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in 4625678897404525717@3@0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:39:43] [main/WARN] [FML]: The coremod com.netease.mc.mod.departmod.coremod.DepartCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[16:39:43] [main/WARN] [FML]: The coremod DepartCore (com.netease.mc.mod.departmod.coremod.DepartCore) is not signed!
-[16:39:43] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in 4626894585322620077@3@0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:39:43] [main/WARN] [FML]: The coremod com.netease.mc.mod.skin.coremod.SkinCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[16:39:43] [main/WARN] [FML]: The coremod SkinCore (com.netease.mc.mod.skin.coremod.SkinCore) is not signed!
-[16:39:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:39:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[16:39:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:39:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:39:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:39:44] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[16:39:44] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
-[16:39:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:39:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:39:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:39:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[16:39:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:39:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:39:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:39:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[16:39:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[16:39:45] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[16:39:45] [main/INFO] [FML]: Transforming method func_180510_a(Lnet/minecraft/client/renderer/texture/TextureManager;)V in class bib(net.minecraft.client.Minecraft)
-[16:39:45] [main/INFO] [FML]: Successfully transformed method func_180510_a(Lnet/minecraft/client/renderer/texture/TextureManager;)V in class bib(net.minecraft.client.Minecraft)
-[16:39:46] [main/INFO] [com.netease.mc.mod.skin.coremod.SkinCoreTransformer$SkinGetTexturesVisitor]: 
-[16:39:46] [main/INFO] [STDOUT]: [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService:GetAuthlibJsonPath:128]: OS current temporary directory is C:\Users\PC\AppData\Local\Temp\
-[16:39:46] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService]: Use the default value for authlib
-[16:39:46] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: LaLaKouJiao
-[16:39:49] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
-[16:39:49] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
-[16:39:50] [main/INFO] [FML]: MinecraftForge v14.23.4.2705 Initialized
-[16:39:50] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[16:39:50] [main/INFO] [FML]: Replaced 1036 ore ingredients
-[16:39:50] [main/INFO] [FML]: Searching C:\MCLDownload\Game\.minecraft\.\mods for mods
-[16:39:50] [main/INFO] [STDOUT]: [com.netease.mc.core.visitor.ModContanierFactoryVisitor:visitMethod:41]: build method fetched!!!!!!
-[16:39:51] [main/INFO] [FML]: Mod mercurius_updater is missing the required element 'name'. Substituting mercurius_updater
-[16:39:54] [main/INFO] [FML]: Mod filtermod is missing the required element 'name'. Substituting filtermod
-[16:39:54] [main/INFO] [FML]: Mod playermanager is missing the required element 'name'. Substituting playermanager
-[16:39:54] [main/INFO] [FML]: Mod mcbasemod is missing the required element 'name'. Substituting mcbasemod
-[16:39:54] [main/INFO] [FML]: Mod departmod is missing the required element 'name'. Substituting departmod
-[16:39:54] [main/INFO] [FML]: Forge Mod Loader has identified 23 mods to load
-[16:39:54] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, departcoremod, skincoremod, neteasecore, basemodneteasecore, mercurius_updater, inventorytweaks, twilightforest, antimod, filtermod, friendplaymod, networkmod, updatecore, playermanager, mcbasemod, treechopper, opencommand, fullscreenpopup, departmod, skinmod] at CLIENT
-[16:39:54] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, departcoremod, skincoremod, neteasecore, basemodneteasecore, mercurius_updater, inventorytweaks, twilightforest, antimod, filtermod, friendplaymod, networkmod, updatecore, playermanager, mcbasemod, treechopper, opencommand, fullscreenpopup, departmod, skinmod] at SERVER
-[16:39:56] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:mercurius_updater, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:anti addiction Mod, FMLFileResourcePack:filtermod, FMLFileResourcePack:friendplay Mod, FMLFileResourcePack:network rpc Mod, FMLFileResourcePack:updatecore, FMLFileResourcePack:playermanager, FMLFileResourcePack:mcbasemod, FMLFileResourcePack:Tree Chopper, FMLFileResourcePack:opencommand Mod, FMLFileResourcePack:Fullscreen Popup Mod, FMLFileResourcePack:departmod, FMLFileResourcePack:skinmod
-[16:39:56] [main/INFO] [FML]: Processing ObjectHolder annotations
-[16:39:56] [main/INFO] [FML]: Found 1379 ObjectHolder annotations
-[16:39:56] [main/INFO] [FML]: Identifying ItemStackHolder annotations
-[16:39:56] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
-[16:39:56] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
-[16:39:56] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[16:39:56] [main/INFO] [mercurius]: Version Number exists, Using it: 1.12.2-1.0.5.24
-[16:39:56] [main/INFO] [mercurius]: File exists, Checking hash: C:\MCLDownload\Game\.minecraft\libraries\net\minecraftforge\Mercurius\1.12.2-1.0.5.24\Mercurius-1.12.2-1.0.5.24.jar
-[16:39:56] [main/INFO] [mercurius]:   Hash matches, Skipping download: 5f298bf707fd9e9400abe46e271f4648f0ec49cb
-[16:39:56] [main/INFO] [mercurius]: Mercurius Jar contains all signed files! Continueing loading!
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `firefly`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cicada`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `moonworm`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `naga_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lich_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `hydra_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `smoker`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `popping_jet`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flame_jet`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tower_builder`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tower_reverter`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `trophy`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tower_boss_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ghast_trap_inactive`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ghast_trap_active`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `carminite_reactor_active`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `knight_phantom_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `snow_queen_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cinder_furnace`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `minoshroom_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `alpha_yeti_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:39:57] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2768
-[16:39:57] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
-[16:39:57] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: OUTDATED Target: 3.8.689
-[16:39:58] [main/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Baubles.
-[16:39:58] [main/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Chisel.
-[16:39:58] [main/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Just Enough Items.
-[16:39:58] [main/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Tinkers' Construct.
-[16:39:58] [main/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Thaumcraft.
-[16:39:58] [main/INFO] [STDOUT]: [com.netease.mc.mod.network.socket.NetworkClientProxy:preInit:10]: preinit
-[16:39:58] [main/INFO] [com.netease.mc.mod.skin.coremod.SkinCoreTransformer$SkinLoadSkinFromCacheVisitor]: replace (Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;
-[16:39:58] [main/INFO] [STDOUT]: [com.netease.mc.mod.filter.ClientProxy:preInit:20]: preInit at ClientProxy
-[16:39:58] [Thread-4/INFO] [com.netease.mc.mod.filter.FilterHelper]: begin to load filter re
-[16:39:58] [main/INFO] [STDOUT]: [com.netease.mc.mod.friendplay.FriendPlayClientProxy:preInit:22]: preinit
-[16:39:58] [main/INFO] [STDOUT]: [com.netease.mc.mod.playermanager.ClientProxy:preInit:18]: preInit at ClientProxy
-[16:39:58] [main/INFO] [STDOUT]: [com.netease.mc.mod.mcbase.ClientProxy:preInit:20]: preInit at ClientProxy
-[16:39:58] [Thread-4/INFO] [com.netease.mc.mod.filter.FilterHelper]: load filter re success!!! 
-[16:39:58] [Thread-5/INFO] [com.netease.mc.mod.updatecore.UpdateCore$1]: {"log":"{\"uid\":166267542,\"code\":0,\"launcherVersion\":\"1.4.0.50027\",\"installPath\":\"C:\\\\Program Files (x86)\\\\Netease\\\\MCLauncher\",\"errorMsg\":\"\"}"}
-[16:39:58] [main/INFO] [com.netease.mc.mod.network.common.Common]: GamePopUP:false
-[16:39:58] [main/INFO] [com.netease.mc.mod.network.common.Common]: GamePopUP:false
-[16:39:58] [main/INFO] [com.netease.mc.mod.departmod.LogHandler]: field_75975_e:java.lang.String
-[16:39:58] [main/INFO] [com.netease.mc.mod.departmod.LogHandler]: field_75978_a:net.minecraft.util.text.ITextComponent
-[16:39:58] [main/INFO] [com.netease.mc.mod.departmod.LogHandler]: field_75972_f:boolean
-[16:39:58] [main/INFO] [FML]: Applying holder lookups
-[16:39:58] [main/INFO] [FML]: Holder lookups applied
-[16:39:58] [main/INFO] [FML]: Applying holder lookups
-[16:39:58] [main/INFO] [FML]: Holder lookups applied
-[16:39:58] [main/INFO] [FML]: Applying holder lookups
-[16:39:58] [main/INFO] [FML]: Holder lookups applied
-[16:39:59] [main/INFO] [FML]: Applying holder lookups
-[16:39:59] [main/INFO] [FML]: Holder lookups applied
-[16:39:59] [main/INFO] [FML]: Injecting itemstacks
-[16:39:59] [main/INFO] [FML]: Itemstack injection complete
-[16:40:02] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
-[16:40:02] [Thread-6/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
-[16:40:02] [Thread-6/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:40:04] [Thread-6/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
-[16:40:04] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
-[16:40:10] [main/INFO] [FML]: Max texture size: 16384
-[16:40:10] [main/INFO] [twilightforest]: Autogenerated twilightforest:blocks/molten_fiery_flow from minecraft:blocks/lava_flow
-[16:40:12] [main/INFO] [twilightforest]: Autogenerated twilightforest:blocks/molten_fiery_still from minecraft:blocks/lava_still
-[16:40:13] [main/INFO] [twilightforest]: Autogenerated twilightforest:blocks/molten_knightmetal_flow from minecraft:blocks/lava_flow with min value of 0.42745098 and max value 0.8117647
-[16:40:13] [main/INFO] [twilightforest]: Autogenerated twilightforest:blocks/fluid_fiery_still from minecraft:blocks/water_still with min value of 0.32156864 and max value 0.47843137
-[16:40:13] [main/INFO] [twilightforest]: Autogenerated twilightforest:blocks/fluid_fiery_flow from minecraft:blocks/water_flow with min value of 0.3254902 and max value 0.47843137
-[16:40:14] [main/INFO] [twilightforest]: Autogenerated twilightforest:blocks/molten_knightmetal_still from minecraft:blocks/lava_still with min value of 0.41568628 and max value 0.9098039
-[16:40:14] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 1024x512 textures-atlas
-[16:40:15] [main/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #all in twilightforest:models/block/giant_cobblestone
-[16:40:17] [main/INFO] [FML]: Applying holder lookups
-[16:40:17] [main/INFO] [FML]: Holder lookups applied
-[16:40:17] [main/WARN] [inventorytweaks]: Backing up file: %1$s to %2$s
-[16:40:17] [main/INFO] [inventorytweaks]: InvTweaks: .\config\InvTweaksRules.txt 缺失，正在创建一个默认配置
-[16:40:17] [main/INFO] [inventorytweaks]: InvTweaks: .\config\InvTweaksTree.txt 缺失，正在创建一个默认配置
-[16:40:17] [main/INFO] [inventorytweaks]: Mod initialized
-[16:40:17] [main/INFO] [STDOUT]: [com.netease.mc.mod.network.socket.NetworkClientProxy:init:17]: init
-[16:40:17] [main/INFO] [STDOUT]: [com.netease.mc.mod.friendplay.FriendPlayClientProxy:init:26]: init
-[16:40:17] [main/INFO] [FML]: Injecting itemstacks
-[16:40:17] [main/INFO] [FML]: Itemstack injection complete
-[16:40:17] [main/INFO] [STDOUT]: [com.netease.mc.mod.network.socket.NetworkClientProxy:postInit:25]: postinit
-[16:40:17] [main/INFO] [STDOUT]: [com.netease.mc.mod.friendplay.FriendPlayClientProxy:postInit:46]: postinit
-[16:40:17] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 23 mods
-[16:40:17] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
-[16:40:17] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
-[16:40:17] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiMainMenu
-[16:40:17] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: [ME]: 
-[16:40:17] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiMainMenu
-[16:40:17] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: 5  1  
-[16:40:17] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: [ME]: 
-[16:40:17] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: 5  1  
-[16:40:17] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: [SERVER]: 
-[16:40:17] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: 6  2  
-[16:40:18] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiMainMenu
-[16:40:18] [main/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] byte 0 0
-[16:40:18] [main/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] byte 1 1
-[16:40:18] [main/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] byte 2 1
-[16:40:18] [main/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] java.lang.String 3 LanGame-47b239ae-0f52-4010-a218-b7ed96abe527
-[16:40:18] [main/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] java.lang.String 4 HST
-[16:40:19] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
-[16:40:19] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
-[16:40:19] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[16:40:19] [Server thread/INFO] [FML]: Applying holder lookups
-[16:40:19] [Server thread/INFO] [FML]: Holder lookups applied
-[16:40:19] [Server thread/INFO] [FML]: Loading dimension 0 (HST) (net.minecraft.server.integrated.IntegratedServer@34a4d563)
-[16:40:19] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
-[16:40:20] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 524 advancements
-[16:40:20] [Server thread/INFO] [FML]: Loading dimension 7 (HST) (net.minecraft.server.integrated.IntegratedServer@34a4d563)
-[16:40:20] [Server thread/INFO] [FML]: Loading dimension 1 (HST) (net.minecraft.server.integrated.IntegratedServer@34a4d563)
-[16:40:20] [Server thread/INFO] [FML]: Loading dimension -1 (HST) (net.minecraft.server.integrated.IntegratedServer@34a4d563)
-[16:40:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[16:40:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 17%
-[16:40:22] [Server thread/INFO] [STDOUT]: [com.netease.mc.mod.network.socket.NetworkCommonProxy:onServerStarted:25]: onServerStarted
-[16:40:22] [Server thread/INFO] [STDOUT]: [com.netease.mc.mod.friendplay.FriendPlayCommonProxy:onServerStarted:27]: onServerStarted
-[16:40:22] [Server thread/INFO] [FML]: Unloading dimension 7
-[16:40:22] [Server thread/INFO] [FML]: Unloading dimension -1
-[16:40:22] [Server thread/INFO] [FML]: Unloading dimension 1
-[16:40:22] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 15, from 10
-[16:40:23] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiScreenWorking
-[16:40:23] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiScreenWorking
-[16:40:23] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiScreenWorking
-[16:40:24] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.antiAddiction.gui.OverlayGuiScreen
-[16:40:25] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.antiAddiction.gui.OverlayGuiScreen
-[16:40:25] [Netty Local Client IO #0/INFO] [STDOUT]: [com.netease.mc.core.NeteaseCoreTransformer$GuiScreenBookVisitor:visitMethod:69]: sendBookToServer method fetched!!!!!!
-[16:40:25] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
-[16:40:25] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
-[16:40:25] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 23 mods : minecraft@1.12.2,departmod@1.0,mercurius_updater@1.0,FML@8.0.99.99,treechopper@1.2.4,neteasecore@1.12.2,antimod@2.0,basemodneteasecore@1.9.4,inventorytweaks@1.64-dev+release.110.b4fac73,networkmod@1.11.2,updatecore@1.0,skincoremod@1.12.2,fullscreenpopup@1.12.2.38000,opencommand@1.0,forge@14.23.4.2705,twilightforest@3.7.424,friendplaymod@1.0,mcp@9.42,skinmod@1.0,filtermod@1.0,playermanager@1.0,departcoremod@1.12.2,mcbasemod@1.0
-[16:40:25] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
-[16:40:25] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: [ME]: 
-[16:40:25] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: 4  18  
-[16:40:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[16:40:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: LaLaKouJiao[local:E:c06734fa] logged in with entity id 216 at (17.322141490990298, 82.48975516329456, 377.6405977473314)
-[16:40:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: LaLaKouJiao加入了游戏
-[16:40:25] [Server thread/INFO] [com.netease.mc.mod.network.common.Common]: TextComponent{text='', siblings=[TextComponent{text='LaLaKouJiao', siblings=[], style=Style{hasParent=true, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/msg LaLaKouJiao '}, hoverEvent=HoverEvent{action=SHOW_ENTITY, value='TextComponent{text='{name:"LaLaKouJiao",id:"89c2a06c-74cd-3f45-8b07-c622fef81755"}', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}'}, insertion=LaLaKouJiao}}], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/msg LaLaKouJiao '}, hoverEvent=HoverEvent{action=SHOW_ENTITY, value='TextComponent{text='{name:"LaLaKouJiao",id:"89c2a06c-74cd-3f45-8b07-c622fef81755"}', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}'}, insertion=LaLaKouJiao}}/local:E:c06734fa loggin
-[16:40:27] [main/INFO] [com.netease.mc.mod.network.common.Common]: PlayerEnterWorldnet.minecraft.client.entity.EntityPlayerSP
-[16:40:27] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
-[16:40:27] [main/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
-[16:40:27] [main/INFO] [net.minecraft.server.integrated.IntegratedServer]: Started on 52440
-[16:40:27] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: [ME]: 
-[16:40:27] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: 6  1  
-[16:40:27] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiDownloadTerrain
-[16:40:27] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiDownloadTerrain
-[16:40:27] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiDownloadTerrain
-[16:40:27] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] InvTweaks: .\config\InvTweaksRules.txt 缺失，正在创建一个默认配置
-[16:40:27] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] InvTweaks: .\config\InvTweaksTree.txt 缺失，正在创建一个默认配置
-[16:40:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'HST'/overworld
-[16:40:28] [pool-4-thread-1/INFO] [com.netease.mc.mod.network.common.Common]: player LaLaKouJiao start loading skin , ThreadID pool-4-thread-1
-[16:40:28] [pool-4-thread-1/INFO] [com.netease.mc.mod.network.common.Common]: skin:send msg to launcher!
-[16:40:28] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: [ME]: 
-[16:40:28] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: 8  1  
-[16:40:28] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: [ME]: 
-[16:40:28] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: 8  2  
-[16:40:28] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: [SERVER]: 
-[16:40:28] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: 8  2  
-[16:40:28] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: smid:2050
-[16:40:28] [Receiver/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] java.lang.String 0 LaLaKouJiao
-[16:40:28] [Receiver/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] java.lang.String 1 C:\MCLDownload\cache\skin\skin_4621993091379101475.png
-[16:40:28] [Receiver/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] java.lang.String 2 
-[16:40:28] [Receiver/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] int 3 1
-[16:40:28] [pool-4-thread-1/INFO] [com.netease.mc.mod.network.common.Common]: player LaLaKouJiao start loading skinurl : C:\MCLDownload\cache\skin\skin_4621993091379101475.png
-[16:40:28] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: [SERVER]: 
-[16:40:28] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: 4  17  
-[16:40:28] [pool-4-thread-1/INFO] [com.netease.mc.mod.network.common.Common]: player LaLaKouJiao start loading capeurl : 
-[16:40:28] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
-[16:40:28] [Netty Server IO #1/INFO] [com.netease.mc.mod.message.AntiAddictionMessage]: AntiAddcitionMessage on message:1.0, 1.0
-[16:40:28] [Netty Server IO #1/INFO] [com.netease.mc.mod.antiAddiction.AntiAddictionEventHandler]: PlayerJoinWithAntiAddictionInfo:1.0,1.0
-[16:40:28] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 86 advancements
-[16:40:29] [main/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] java.lang.String 0 
-[16:40:29] [main/INFO] [com.netease.mc.mod.playermanager.reply.ReplySearchPlayerListByName]: SearchPlayerListByName: 
-[16:40:29] [main/INFO] [com.netease.mc.mod.playermanager.reply.ReplySearchPlayerListByName]: matched players are: 89c2a06c-74cd-3f45-8b07-c622fef81755:LaLaKouJiao, 
-[16:40:29] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: [ME]: 
-[16:40:29] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: 4  16  
-[16:40:29] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiIngameMenu
-[16:40:29] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiIngameMenu
-[16:40:29] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiIngameMenu
-[16:40:32] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
-[16:40:32] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
-[16:40:55] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiIngameMenu
-[16:40:55] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiIngameMenu
-[16:40:55] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiIngameMenu
-[16:40:58] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
-[16:40:58] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
-[16:41:18] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiIngameMenu
-[16:41:18] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiIngameMenu
-[16:41:18] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiIngameMenu
-[16:41:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: LaLaKouJiao lost connection: 连接中止
-[16:41:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: LaLaKouJiao退出了游戏
-[16:41:19] [Server thread/INFO] [com.netease.mc.mod.network.common.Common]: TextComponent{text='', siblings=[TextComponent{text='LaLaKouJiao', siblings=[], style=Style{hasParent=true, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/msg LaLaKouJiao '}, hoverEvent=HoverEvent{action=SHOW_ENTITY, value='TextComponent{text='{name:"LaLaKouJiao",id:"89c2a06c-74cd-3f45-8b07-c622fef81755"}', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}'}, insertion=LaLaKouJiao}}], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/msg LaLaKouJiao '}, hoverEvent=HoverEvent{action=SHOW_ENTITY, value='TextComponent{text='{name:"LaLaKouJiao",id:"89c2a06c-74cd-3f45-8b07-c622fef81755"}', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}'}, insertion=LaLaKouJiao}}/local:E:c06734fa logout
-[16:41:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
-[16:41:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[16:41:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[16:41:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[16:41:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'HST'/overworld
-[16:41:20] [Server thread/INFO] [FML]: Unloading dimension 0
-[16:41:20] [Server thread/INFO] [FML]: Applying holder lookups
-[16:41:20] [Server thread/INFO] [FML]: Holder lookups applied
-[16:41:21] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiMainMenu
-[16:41:21] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiMainMenu
-[16:41:21] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiMainMenu
-[16:41:21] [main/INFO] [net.minecraft.client.Minecraft]: Stopping!
-[16:41:21] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
-[16:41:21] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
+[17:02:58] [main/INFO] [com.netease.mc.mod.network.common.Common]: {"uid":[166267542,0],"gameid":[0,0],"launcherport":[10923,0],"countDownTime":[0,0],"filterkey":["ihsfdryqrgnjuxufuqbiqrpwrdsuhifd","0"],"filterpath":["C:\\Users\\PC\\AppData\\Local\\Netease\\MCLauncher\\config\\fltmp","0"],"blockGainFactor":[1,0],"expGainFactor":[1,0],"msg":["","0"]}
+[17:02:58] [pool-1-thread-1/INFO] [com.netease.mc.mod.network.common.Common]: My socket: 127.0.0.1:10923
+[17:02:58] [pool-1-thread-1/INFO] [com.netease.mc.mod.network.common.Common]: C:\MCLDownload\Game\.minecraft\versions\1.12.2\natives\runtime
+[17:02:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:02:58] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:02:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:02:58] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2705 for Minecraft 1.12.2 loading
+[17:02:58] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_60, running on Windows 10:amd64:10.0, installed at C:\MCLDownload\ext\jre-v64-170307\jre8
+[17:02:58] [main/INFO] [FML]: Searching C:\MCLDownload\Game\.minecraft\.\mods for mods
+[17:02:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in 4618158911831432412@3@15.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:03:00] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:03:00] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in 4620273834266845199@3@0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:03:00] [main/WARN] [FML]: The coremod com.netease.mc.core.NeteaseCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:03:00] [pool-1-thread-1/INFO] [com.netease.mc.mod.network.common.Library]: 0
+[17:03:00] [main/WARN] [FML]: The coremod NeteaseCore (com.netease.mc.core.NeteaseCore) is not signed!
+[17:03:00] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in 4621632218832071536@3@0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:03:00] [main/WARN] [FML]: The coremod com.netease.mc.core.base.BaseModNeteaseCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:03:00] [main/WARN] [FML]: The coremod BaseModNeteaseCore (com.netease.mc.core.base.BaseModNeteaseCore) is not signed!
+[17:03:00] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in 4625678897404525717@3@0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:03:00] [main/WARN] [FML]: The coremod com.netease.mc.mod.departmod.coremod.DepartCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:03:00] [main/WARN] [FML]: The coremod DepartCore (com.netease.mc.mod.departmod.coremod.DepartCore) is not signed!
+[17:03:00] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: Sender ... start --- Sender
+[17:03:00] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in 4626894585322620077@3@0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:03:00] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: Receiver ... start --- Receiver
+[17:03:00] [main/WARN] [FML]: The coremod com.netease.mc.mod.skin.coremod.SkinCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:03:00] [main/WARN] [FML]: The coremod SkinCore (com.netease.mc.mod.skin.coremod.SkinCore) is not signed!
+[17:03:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:03:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:03:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:03:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:03:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:03:01] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[17:03:01] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[17:03:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:03:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:03:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:03:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:03:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:03:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:03:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:03:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:03:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:03:02] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[17:03:02] [main/INFO] [FML]: Transforming method func_180510_a(Lnet/minecraft/client/renderer/texture/TextureManager;)V in class bib(net.minecraft.client.Minecraft)
+[17:03:02] [main/INFO] [FML]: Successfully transformed method func_180510_a(Lnet/minecraft/client/renderer/texture/TextureManager;)V in class bib(net.minecraft.client.Minecraft)
+[17:03:02] [main/INFO] [com.netease.mc.mod.skin.coremod.SkinCoreTransformer$SkinGetTexturesVisitor]: 
+[17:03:02] [main/INFO] [STDOUT]: [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService:GetAuthlibJsonPath:128]: OS current temporary directory is C:\Users\PC\AppData\Local\Temp\
+[17:03:03] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService]: Use the default value for authlib
+[17:03:03] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: LaLaKouJiao
+[17:03:06] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[17:03:06] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[17:03:07] [main/INFO] [FML]: MinecraftForge v14.23.4.2705 Initialized
+[17:03:07] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[17:03:07] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[17:03:07] [main/INFO] [FML]: Searching C:\MCLDownload\Game\.minecraft\.\mods for mods
+[17:03:07] [main/INFO] [STDOUT]: [com.netease.mc.core.visitor.ModContanierFactoryVisitor:visitMethod:41]: build method fetched!!!!!!
+[17:03:07] [main/INFO] [FML]: Mod mercurius_updater is missing the required element 'name'. Substituting mercurius_updater
+[17:03:11] [main/INFO] [FML]: Mod filtermod is missing the required element 'name'. Substituting filtermod
+[17:03:11] [main/INFO] [FML]: Mod playermanager is missing the required element 'name'. Substituting playermanager
+[17:03:11] [main/INFO] [FML]: Mod mcbasemod is missing the required element 'name'. Substituting mcbasemod
+[17:03:11] [main/INFO] [FML]: Mod departmod is missing the required element 'name'. Substituting departmod
+[17:03:11] [main/INFO] [FML]: Forge Mod Loader has identified 23 mods to load
+[17:03:11] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, departcoremod, skincoremod, neteasecore, basemodneteasecore, mercurius_updater, inventorytweaks, twilightforest, antimod, filtermod, friendplaymod, networkmod, updatecore, playermanager, mcbasemod, treechopper, opencommand, fullscreenpopup, departmod, skinmod] at CLIENT
+[17:03:11] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, departcoremod, skincoremod, neteasecore, basemodneteasecore, mercurius_updater, inventorytweaks, twilightforest, antimod, filtermod, friendplaymod, networkmod, updatecore, playermanager, mcbasemod, treechopper, opencommand, fullscreenpopup, departmod, skinmod] at SERVER
+[17:03:13] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:mercurius_updater, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:anti addiction Mod, FMLFileResourcePack:filtermod, FMLFileResourcePack:friendplay Mod, FMLFileResourcePack:network rpc Mod, FMLFileResourcePack:updatecore, FMLFileResourcePack:playermanager, FMLFileResourcePack:mcbasemod, FMLFileResourcePack:Tree Chopper, FMLFileResourcePack:opencommand Mod, FMLFileResourcePack:Fullscreen Popup Mod, FMLFileResourcePack:departmod, FMLFileResourcePack:skinmod
+[17:03:13] [main/INFO] [FML]: Processing ObjectHolder annotations
+[17:03:13] [main/INFO] [FML]: Found 1379 ObjectHolder annotations
+[17:03:13] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[17:03:13] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
+[17:03:13] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[17:03:13] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[17:03:13] [main/INFO] [mercurius]: Version Number exists, Using it: 1.12.2-1.0.5.24
+[17:03:13] [main/INFO] [mercurius]: File exists, Checking hash: C:\MCLDownload\Game\.minecraft\libraries\net\minecraftforge\Mercurius\1.12.2-1.0.5.24\Mercurius-1.12.2-1.0.5.24.jar
+[17:03:13] [main/INFO] [mercurius]:   Hash matches, Skipping download: 5f298bf707fd9e9400abe46e271f4648f0ec49cb
+[17:03:13] [main/INFO] [mercurius]: Mercurius Jar contains all signed files! Continueing loading!
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `firefly`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cicada`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `moonworm`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `naga_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lich_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `hydra_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `smoker`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `popping_jet`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flame_jet`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tower_builder`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tower_reverter`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `trophy`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tower_boss_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ghast_trap_inactive`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ghast_trap_active`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `carminite_reactor_active`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `knight_phantom_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `snow_queen_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cinder_furnace`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `minoshroom_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `alpha_yeti_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:03:14] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2768
+[17:03:14] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[17:03:15] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: OUTDATED Target: 3.8.689
+[17:03:15] [main/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Baubles.
+[17:03:15] [main/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Chisel.
+[17:03:15] [main/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Just Enough Items.
+[17:03:15] [main/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Tinkers' Construct.
+[17:03:15] [main/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Thaumcraft.
+[17:03:15] [main/INFO] [STDOUT]: [com.netease.mc.mod.network.socket.NetworkClientProxy:preInit:10]: preinit
+[17:03:15] [main/INFO] [com.netease.mc.mod.skin.coremod.SkinCoreTransformer$SkinLoadSkinFromCacheVisitor]: replace (Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;
+[17:03:15] [main/INFO] [STDOUT]: [com.netease.mc.mod.filter.ClientProxy:preInit:20]: preInit at ClientProxy
+[17:03:15] [Thread-4/INFO] [com.netease.mc.mod.filter.FilterHelper]: begin to load filter re
+[17:03:15] [main/INFO] [STDOUT]: [com.netease.mc.mod.friendplay.FriendPlayClientProxy:preInit:22]: preinit
+[17:03:15] [main/INFO] [STDOUT]: [com.netease.mc.mod.playermanager.ClientProxy:preInit:18]: preInit at ClientProxy
+[17:03:15] [main/INFO] [STDOUT]: [com.netease.mc.mod.mcbase.ClientProxy:preInit:20]: preInit at ClientProxy
+[17:03:15] [Thread-4/INFO] [com.netease.mc.mod.filter.FilterHelper]: load filter re success!!! 
+[17:03:15] [main/INFO] [com.netease.mc.mod.network.common.Common]: GamePopUP:false
+[17:03:15] [main/INFO] [com.netease.mc.mod.network.common.Common]: GamePopUP:false
+[17:03:15] [Thread-5/INFO] [com.netease.mc.mod.updatecore.UpdateCore$1]: {"log":"{\"uid\":166267542,\"code\":0,\"launcherVersion\":\"1.4.0.50027\",\"installPath\":\"C:\\\\Program Files (x86)\\\\Netease\\\\MCLauncher\",\"errorMsg\":\"\"}"}
+[17:03:15] [main/INFO] [com.netease.mc.mod.departmod.LogHandler]: field_75975_e:java.lang.String
+[17:03:15] [main/INFO] [com.netease.mc.mod.departmod.LogHandler]: field_75978_a:net.minecraft.util.text.ITextComponent
+[17:03:15] [main/INFO] [com.netease.mc.mod.departmod.LogHandler]: field_75972_f:boolean
+[17:03:15] [main/INFO] [FML]: Applying holder lookups
+[17:03:15] [main/INFO] [FML]: Holder lookups applied
+[17:03:15] [main/INFO] [FML]: Applying holder lookups
+[17:03:15] [main/INFO] [FML]: Holder lookups applied
+[17:03:15] [main/INFO] [FML]: Applying holder lookups
+[17:03:15] [main/INFO] [FML]: Holder lookups applied
+[17:03:16] [main/INFO] [FML]: Applying holder lookups
+[17:03:16] [main/INFO] [FML]: Holder lookups applied
+[17:03:16] [main/INFO] [FML]: Injecting itemstacks
+[17:03:16] [main/INFO] [FML]: Itemstack injection complete
+[17:03:19] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[17:03:19] [Thread-6/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[17:03:19] [Thread-6/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:03:21] [Thread-6/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[17:03:21] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[17:03:27] [main/INFO] [FML]: Max texture size: 16384
+[17:03:27] [main/INFO] [twilightforest]: Autogenerated twilightforest:blocks/molten_fiery_flow from minecraft:blocks/lava_flow
+[17:03:28] [main/INFO] [twilightforest]: Autogenerated twilightforest:blocks/molten_fiery_still from minecraft:blocks/lava_still
+[17:03:29] [main/INFO] [twilightforest]: Autogenerated twilightforest:blocks/molten_knightmetal_flow from minecraft:blocks/lava_flow with min value of 0.42745098 and max value 0.8117647
+[17:03:30] [main/INFO] [twilightforest]: Autogenerated twilightforest:blocks/fluid_fiery_still from minecraft:blocks/water_still with min value of 0.32156864 and max value 0.47843137
+[17:03:30] [main/INFO] [twilightforest]: Autogenerated twilightforest:blocks/fluid_fiery_flow from minecraft:blocks/water_flow with min value of 0.3254902 and max value 0.47843137
+[17:03:30] [main/INFO] [twilightforest]: Autogenerated twilightforest:blocks/molten_knightmetal_still from minecraft:blocks/lava_still with min value of 0.41568628 and max value 0.9098039
+[17:03:31] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 1024x512 textures-atlas
+[17:03:32] [main/WARN] [net.minecraft.client.renderer.block.model.ModelBlock]: Unable to resolve texture due to upward reference: #all in twilightforest:models/block/giant_cobblestone
+[17:03:33] [main/INFO] [FML]: Applying holder lookups
+[17:03:33] [main/INFO] [FML]: Holder lookups applied
+[17:03:33] [main/WARN] [inventorytweaks]: Backing up file: %1$s to %2$s
+[17:03:33] [main/INFO] [inventorytweaks]: InvTweaks: .\config\InvTweaksRules.txt 缺失，正在创建一个默认配置
+[17:03:33] [main/INFO] [inventorytweaks]: InvTweaks: .\config\InvTweaksTree.txt 缺失，正在创建一个默认配置
+[17:03:33] [main/INFO] [inventorytweaks]: Mod initialized
+[17:03:33] [main/INFO] [STDOUT]: [com.netease.mc.mod.network.socket.NetworkClientProxy:init:17]: init
+[17:03:33] [main/INFO] [STDOUT]: [com.netease.mc.mod.friendplay.FriendPlayClientProxy:init:26]: init
+[17:03:33] [main/INFO] [FML]: Injecting itemstacks
+[17:03:33] [main/INFO] [FML]: Itemstack injection complete
+[17:03:33] [main/INFO] [STDOUT]: [com.netease.mc.mod.network.socket.NetworkClientProxy:postInit:25]: postinit
+[17:03:33] [main/INFO] [STDOUT]: [com.netease.mc.mod.friendplay.FriendPlayClientProxy:postInit:46]: postinit
+[17:03:33] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 23 mods
+[17:03:33] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[17:03:33] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[17:03:33] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiMainMenu
+[17:03:33] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: [ME]: 
+[17:03:33] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: 5  1  
+[17:03:33] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiMainMenu
+[17:03:33] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: [ME]: 
+[17:03:33] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: 5  1  
+[17:03:34] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: [SERVER]: 
+[17:03:34] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: 6  2  
+[17:03:34] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiMainMenu
+[17:03:34] [main/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] byte 0 0
+[17:03:34] [main/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] byte 1 1
+[17:03:34] [main/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] byte 2 1
+[17:03:34] [main/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] java.lang.String 3 LanGame-47b239ae-0f52-4010-a218-b7ed96abe527
+[17:03:34] [main/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] java.lang.String 4 HST
+[17:03:35] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[17:03:35] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[17:03:35] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[17:03:35] [Server thread/INFO] [FML]: Applying holder lookups
+[17:03:35] [Server thread/INFO] [FML]: Holder lookups applied
+[17:03:35] [Server thread/INFO] [FML]: Loading dimension 0 (HST) (net.minecraft.server.integrated.IntegratedServer@148d233b)
+[17:03:36] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[17:03:36] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 524 advancements
+[17:03:36] [Server thread/INFO] [FML]: Loading dimension 7 (HST) (net.minecraft.server.integrated.IntegratedServer@148d233b)
+[17:03:36] [Server thread/INFO] [FML]: Loading dimension 1 (HST) (net.minecraft.server.integrated.IntegratedServer@148d233b)
+[17:03:36] [Server thread/INFO] [FML]: Loading dimension -1 (HST) (net.minecraft.server.integrated.IntegratedServer@148d233b)
+[17:03:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[17:03:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 39%
+[17:03:38] [Server thread/INFO] [STDOUT]: [com.netease.mc.mod.network.socket.NetworkCommonProxy:onServerStarted:25]: onServerStarted
+[17:03:38] [Server thread/INFO] [STDOUT]: [com.netease.mc.mod.friendplay.FriendPlayCommonProxy:onServerStarted:27]: onServerStarted
+[17:03:38] [Server thread/INFO] [FML]: Unloading dimension 7
+[17:03:38] [Server thread/INFO] [FML]: Unloading dimension -1
+[17:03:38] [Server thread/INFO] [FML]: Unloading dimension 1
+[17:03:38] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 15, from 10
+[17:03:38] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiScreenWorking
+[17:03:38] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiScreenWorking
+[17:03:38] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiScreenWorking
+[17:03:40] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.antiAddiction.gui.OverlayGuiScreen
+[17:03:40] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.antiAddiction.gui.OverlayGuiScreen
+[17:03:40] [Netty Local Client IO #0/INFO] [STDOUT]: [com.netease.mc.core.NeteaseCoreTransformer$GuiScreenBookVisitor:visitMethod:69]: sendBookToServer method fetched!!!!!!
+[17:03:41] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[17:03:41] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[17:03:41] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 23 mods : minecraft@1.12.2,departmod@1.0,mercurius_updater@1.0,FML@8.0.99.99,treechopper@1.2.4,neteasecore@1.12.2,antimod@2.0,basemodneteasecore@1.9.4,inventorytweaks@1.64-dev+release.110.b4fac73,networkmod@1.11.2,updatecore@1.0,skincoremod@1.12.2,fullscreenpopup@1.12.2.38000,opencommand@1.0,forge@14.23.4.2705,twilightforest@3.7.424,friendplaymod@1.0,mcp@9.42,skinmod@1.0,filtermod@1.0,playermanager@1.0,departcoremod@1.12.2,mcbasemod@1.0
+[17:03:41] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[17:03:41] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: [ME]: 
+[17:03:41] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: 4  18  
+[17:03:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:03:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: LaLaKouJiao[local:E:7fcb62b7] logged in with entity id 215 at (-17.512499988079064, 71.0, 314.2081171621306)
+[17:03:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: LaLaKouJiao加入了游戏
+[17:03:41] [Server thread/INFO] [com.netease.mc.mod.network.common.Common]: TextComponent{text='', siblings=[TextComponent{text='LaLaKouJiao', siblings=[], style=Style{hasParent=true, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/msg LaLaKouJiao '}, hoverEvent=HoverEvent{action=SHOW_ENTITY, value='TextComponent{text='{name:"LaLaKouJiao",id:"89c2a06c-74cd-3f45-8b07-c622fef81755"}', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}'}, insertion=LaLaKouJiao}}], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/msg LaLaKouJiao '}, hoverEvent=HoverEvent{action=SHOW_ENTITY, value='TextComponent{text='{name:"LaLaKouJiao",id:"89c2a06c-74cd-3f45-8b07-c622fef81755"}', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}'}, insertion=LaLaKouJiao}}/local:E:7fcb62b7 loggin
+[17:03:43] [main/INFO] [com.netease.mc.mod.network.common.Common]: PlayerEnterWorldnet.minecraft.client.entity.EntityPlayerSP
+[17:03:43] [main/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[17:03:43] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:03:43] [main/INFO] [net.minecraft.server.integrated.IntegratedServer]: Started on 53425
+[17:03:43] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: [ME]: 
+[17:03:43] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: 6  1  
+[17:03:43] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiDownloadTerrain
+[17:03:43] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiDownloadTerrain
+[17:03:43] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiDownloadTerrain
+[17:03:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'HST'/overworld
+[17:03:44] [pool-4-thread-1/INFO] [com.netease.mc.mod.network.common.Common]: player LaLaKouJiao start loading skin , ThreadID pool-4-thread-1
+[17:03:44] [pool-4-thread-1/INFO] [com.netease.mc.mod.network.common.Common]: skin:send msg to launcher!
+[17:03:44] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: [SERVER]: 
+[17:03:44] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: [ME]: 
+[17:03:44] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: 4  17  
+[17:03:44] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: 8  1  
+[17:03:44] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: [ME]: 
+[17:03:44] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: 8  2  
+[17:03:44] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: [SERVER]: 
+[17:03:44] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: 8  2  
+[17:03:44] [Receiver/INFO] [com.netease.mc.mod.network.common.Common]: smid:2050
+[17:03:44] [Receiver/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] java.lang.String 0 LaLaKouJiao
+[17:03:44] [Receiver/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] java.lang.String 1 C:\MCLDownload\cache\skin\skin_4621993091379101475.png
+[17:03:44] [Receiver/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] java.lang.String 2 
+[17:03:44] [Receiver/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] int 3 1
+[17:03:44] [pool-4-thread-1/INFO] [com.netease.mc.mod.network.common.Common]: player LaLaKouJiao start loading skinurl : C:\MCLDownload\cache\skin\skin_4621993091379101475.png
+[17:03:44] [pool-4-thread-1/INFO] [com.netease.mc.mod.network.common.Common]: player LaLaKouJiao start loading capeurl : 
+[17:03:44] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:03:44] [Netty Server IO #1/INFO] [com.netease.mc.mod.message.AntiAddictionMessage]: AntiAddcitionMessage on message:1.0, 1.0
+[17:03:44] [Netty Server IO #1/INFO] [com.netease.mc.mod.antiAddiction.AntiAddictionEventHandler]: PlayerJoinWithAntiAddictionInfo:1.0,1.0
+[17:03:44] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 86 advancements
+[17:03:44] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] InvTweaks: .\config\InvTweaksRules.txt 缺失，正在创建一个默认配置
+[17:03:44] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] InvTweaks: .\config\InvTweaksTree.txt 缺失，正在创建一个默认配置
+[17:03:44] [main/INFO] [com.netease.mc.mod.network.message.reply.Reply]: [Network] java.lang.String 0 
+[17:03:44] [main/INFO] [com.netease.mc.mod.playermanager.reply.ReplySearchPlayerListByName]: SearchPlayerListByName: 
+[17:03:44] [main/INFO] [com.netease.mc.mod.playermanager.reply.ReplySearchPlayerListByName]: matched players are: 89c2a06c-74cd-3f45-8b07-c622fef81755:LaLaKouJiao, 
+[17:03:44] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: [ME]: 
+[17:03:44] [Sender/INFO] [com.netease.mc.mod.network.common.Common]: 4  16  
+[17:03:45] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiIngameMenu
+[17:03:45] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiIngameMenu
+[17:03:45] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiIngameMenu
+[17:03:56] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:03:56] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:04:09] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.inventory.GuiInventory
+[17:04:09] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.inventory.GuiInventory
+[17:04:09] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.inventory.GuiContainerCreative
+[17:04:09] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.inventory.GuiContainerCreative
+[17:04:09] [main/INFO] [invtweaks.forge.asm.ContainerTransformer]: InvTweaks: successfully transformed setFocused/func_146195_b
+[17:04:09] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.inventory.GuiContainerCreative
+[17:04:09] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.inventory.GuiInventory
+[17:04:15] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 91 advancements
+[17:04:15] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:04:15] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:04:21] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:21] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:21] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:21] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:21] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:21] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:30] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:04:30] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:04:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [LaLaKouJiao: 您的游戏模式已被设置为生存模式 ]
+[17:04:30] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 你的游戏模式已被更新为生存模式
+[17:04:33] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:33] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:33] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:33] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:33] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:33] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:50] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:04:50] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:04:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [LaLaKouJiao: 游戏规则keep已经更新为 inventory true]
+[17:04:50] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 游戏规则keep已经更新为 inventory true
+[17:04:53] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:53] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:53] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:53] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:53] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:04:53] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:05:12] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:05:12] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:05:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [LaLaKouJiao: 游戏规则keepinventory已经更新为 true]
+[17:05:12] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 游戏规则keepinventory已经更新为 true
+[17:05:16] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screencom.netease.mc.mod.filter.FilterGuiChat
+[17:05:16] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:05:16] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:05:16] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screencom.netease.mc.mod.filter.FilterGuiChat
+[17:05:16] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:05:16] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:05:22] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:05:22] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:05:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [LaLaKouJiao: 游戏规则keepInventory已经更新为 true]
+[17:05:22] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 游戏规则keepInventory已经更新为 true
+[17:05:25] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screencom.netease.mc.mod.filter.FilterGuiChat
+[17:05:25] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:05:25] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:05:25] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screencom.netease.mc.mod.filter.FilterGuiChat
+[17:05:25] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:05:25] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screencom.netease.mc.mod.filter.FilterGuiChat
+[17:05:59] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:05:59] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:05:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [LaLaKouJiao: 游戏规则mobGriefing已经更新为 false]
+[17:05:59] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 游戏规则mobGriefing已经更新为 false
+[17:07:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: LaLaKouJiao淹死了
+[17:07:07] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiGameOver
+[17:07:07] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiGameOver
+[17:07:07] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiGameOver
+[17:07:07] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] LaLaKouJiao淹死了
+[17:07:14] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiGameOver
+[17:07:14] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiGameOver
+[17:07:14] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiGameOver
+[17:07:14] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:07:14] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screen : null
+[17:07:39] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiIngameMenu
+[17:07:39] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiIngameMenu
+[17:07:39] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiIngameMenu
+[17:07:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: LaLaKouJiao lost connection: 连接中止
+[17:07:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: LaLaKouJiao退出了游戏
+[17:07:40] [Server thread/INFO] [com.netease.mc.mod.network.common.Common]: TextComponent{text='', siblings=[TextComponent{text='LaLaKouJiao', siblings=[], style=Style{hasParent=true, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/msg LaLaKouJiao '}, hoverEvent=HoverEvent{action=SHOW_ENTITY, value='TextComponent{text='{name:"LaLaKouJiao",id:"89c2a06c-74cd-3f45-8b07-c622fef81755"}', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}'}, insertion=LaLaKouJiao}}], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/msg LaLaKouJiao '}, hoverEvent=HoverEvent{action=SHOW_ENTITY, value='TextComponent{text='{name:"LaLaKouJiao",id:"89c2a06c-74cd-3f45-8b07-c622fef81755"}', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}'}, insertion=LaLaKouJiao}}/local:E:7fcb62b7 logout
+[17:07:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[17:07:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:07:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[17:07:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[17:07:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'HST'/overworld
+[17:07:40] [Server thread/INFO] [FML]: Unloading dimension 0
+[17:07:40] [Server thread/INFO] [FML]: Applying holder lookups
+[17:07:40] [Server thread/INFO] [FML]: Holder lookups applied
+[17:07:41] [main/INFO] [com.netease.mc.mod.network.common.Common]: open screennet.minecraft.client.gui.GuiMainMenu
+[17:07:41] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiMainMenu
+[17:07:41] [main/INFO] [com.netease.mc.mod.network.common.Common]: init screennet.minecraft.client.gui.GuiMainMenu
+[17:07:41] [main/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[17:07:41] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[17:07:41] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
