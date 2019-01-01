@@ -1,0 +1,4 @@
+newmtl Element
+Kd 1 1 1
+map_Kd cheetah.png
+illum 2

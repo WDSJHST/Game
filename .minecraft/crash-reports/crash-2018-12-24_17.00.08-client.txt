@@ -1,0 +1,92 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  BaseModNeteaseCore (4621632218832071536@3@0.jar)
+  SkinCore (4626894585322620077@3@0.jar)
+  DepartCore (4625678897404525717@3@0.jar)
+  NeteaseCore (4620273834266845199@3@0.jar)
+Contact their authors BEFORE contacting forge
+
+// Oops.
+
+Time: 12/24/18 5:00 PM
+Description: Initializing game
+
+org.lwjgl.LWJGLException: Pixel format not accelerated
+	at org.lwjgl.opengl.WindowsPeerInfo.nChoosePixelFormat(Native Method)
+	at org.lwjgl.opengl.WindowsPeerInfo.choosePixelFormat(WindowsPeerInfo.java:52)
+	at org.lwjgl.opengl.WindowsDisplay.createWindow(WindowsDisplay.java:247)
+	at org.lwjgl.opengl.Display.createWindow(Display.java:306)
+	at org.lwjgl.opengl.Display.create(Display.java:848)
+	at org.lwjgl.opengl.Display.create(Display.java:757)
+	at org.lwjgl.opengl.Display.create(Display.java:739)
+	at net.minecraft.client.Minecraft.func_175609_am(Minecraft.java:644)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:457)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:141)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:23)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at org.lwjgl.opengl.WindowsPeerInfo.nChoosePixelFormat(Native Method)
+	at org.lwjgl.opengl.WindowsPeerInfo.choosePixelFormat(WindowsPeerInfo.java:52)
+	at org.lwjgl.opengl.WindowsDisplay.createWindow(WindowsDisplay.java:247)
+	at org.lwjgl.opengl.Display.createWindow(Display.java:306)
+	at org.lwjgl.opengl.Display.create(Display.java:848)
+	at org.lwjgl.opengl.Display.create(Display.java:757)
+	at org.lwjgl.opengl.Display.create(Display.java:739)
+	at net.minecraft.client.Minecraft.func_175609_am(Minecraft.java:644)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:457)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:141)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:23)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_60, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 108065328 bytes (103 MB) / 254812160 bytes (243 MB) up to 4281597952 bytes (4083 MB)
+	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx4096M -Xmn128M -XX:PermSize=64M -XX:MaxPermSize=128M -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+BaseModNeteaseCore (4621632218832071536@3@0.jar)
+  com.netease.mc.core.base.NeteaseCoreTransformer
+SkinCore (4626894585322620077@3@0.jar)
+  com.netease.mc.mod.skin.coremod.SkinCoreTransformer
+DepartCore (4625678897404525717@3@0.jar)
+  com.netease.mc.mod.departmod.coremod.DepartTransformer
+NeteaseCore (4620273834266845199@3@0.jar)
+  com.netease.mc.core.NeteaseCoreTransformer
+	Launched Version: 1.12.2
+	LWJGL: 2.9.4
+	OpenGL: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	GL Caps: 
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: 
+	Current Language: ~~ERROR~~ NullPointerException: null
+	Profiler Position: N/A (disabled)
+	CPU: <unknown>

@@ -1,0 +1,4 @@
+newmtl Element
+Kd 1 1 1
+map_Kd elephant.png
+illum 2
